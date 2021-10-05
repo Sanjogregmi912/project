@@ -28,8 +28,7 @@ The tools I have used for this project are as shown below and if you don not hav
    
 - [JDk](https://www.oracle.com/java/technologies/downloads/) for running java Application.
 - [Eclipse ](https://www.sonarlint.org/eclipse?gclid=CjwKCAjwzOqKBhAWEiwArQGwaMwEL7AIMakpBQON5E1Otc_Od89FyriiWPrAIKB04TlkkHxjxgWaGhoC74MQAvD_BwE) as an IDE.
-- [MySql WorkBench](https://dev.mysql.com/downloads/workbench/) for database.
-- 
+- [MySql WorkBench](https://dev.mysql.com/downloads/workbench/) for database. 
 - [JDBC](https://dev.mysql.com/downloads/connector/j/) for connecting mysql database and java.
 
 
@@ -38,7 +37,7 @@ The tools I have used for this project are as shown below and if you don not hav
 First you need to download this project and download the jdbc file which link is provided above. 
 
 After succefull installation of required tools mentioned above go through below codes.
-- you can copy teh sql sql query and run it 
+- you can copy the  sql query from sql_query file provided  in project and run it in the  MySql workbench.
 - then setup up the jdbc driver by selecting the build path of the project
 - finally run the mainpage and check all the features listed. 
 
