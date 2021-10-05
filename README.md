@@ -36,10 +36,10 @@ The tools I have used for this project are as shown below and if you don not hav
 
 First you need to download this project and download the jdbc file which link is provided above. 
 
-After succefull installation of required tools mentioned above go through below codes.
-- you can copy the  sql query from sql_query file provided  in project and run it in the  MySql workbench.
+After succefull installation of required tools mentioned above go through below process.
+- You can copy the  sql query from sql_query file provided  in project and run it in the  MySql workbench.
 - then setup up the jdbc driver by selecting the build path of the project
-- finally run the mainpage and check all the features listed. 
+- Finally run the mainpage.java which you can find in the src folder and check all the features listed. 
 
 
 <br>
